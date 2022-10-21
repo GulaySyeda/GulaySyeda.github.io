@@ -1,0 +1,63 @@
+#header{
+    height: 50%;
+    width: 100%;
+   
+}
+body{
+    font-family: Helvetica, sans-serif;
+    padding: 0px 10px 10px 10px;
+    text-align: center;
+}
+
+h1{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    display:inline;
+    align-items: center;
+    position: relative;
+    color: black;
+    font-family: Helvetica, sans-serif;
+    max-height: fit-content;
+  
+    
+   
+}
+  .nav ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    border: solid;
+    border-color: black;
+    border-width: 100%;
+    
+  }
+  
+  .nav a {
+    text-decoration: none;
+    justify-content: space-evenly;
+    padding: 0px 50px 0px 50px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+
+  }
+  .girl{
+    width: 25%;
+    height: 25%;
+  }
+  a{
+    text-decoration: none;
+    color: coral;
+  }
+  .design-squiggle{
+    width: 50%;
+    height: 50%;
+
+  }
