@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en"> 
+<head> <!-- Start Head --->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journal Notes</title>
+    <link rel="stylesheet" href="style.css">
+</head> <!--- End Head-->
+<header id="header"> <!--- Start Header-->
+    
+    
+</header><!-- End Header -->
+<body>
+    <h1 class="heading">Design Journal</h1> 
+    <nav class="nav">
+        <ul>
+            <li><a class="part1" href="./Part1.html">Part 1</a></li>
+            <li><a class="discover" href="./Discover.html">Discover</a></li>
+            <li><a class="define" href="./Define.html">Define</a></li>
+            <li><a class="design" href="./Design.html">Design</a></li>
+            <li><a class="develop" href="./Develop.html">Develop</a></li>
+            <li><a class="deliver href="./Deliver.html">Deliver</a></li>
+        </ul>
+    </nav><!-- .navbar -->
+            
+</body>
+</html>
