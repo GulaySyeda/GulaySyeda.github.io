@@ -45,9 +45,11 @@ h1{
     color: black;
     font-weight: lighter;
   }
-   .prologue{
-    border-bottom: solid;
-    border-color: black;
-    border-width: 5px;
-
+  .prologue{
+    position: absolute;
+    width: 1%;
+    display: block;
+    height: 5px;
+    background-color: black;
+    border-bottom: -5px;
   }
