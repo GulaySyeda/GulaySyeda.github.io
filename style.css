@@ -45,3 +45,9 @@ h1{
     color: black;
     font-weight: lighter;
   }
+   .prologue{
+    border-bottom: solid;
+    border-color: black;
+    border-width: 5px;
+
+  }
