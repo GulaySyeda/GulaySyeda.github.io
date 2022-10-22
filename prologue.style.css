@@ -19,8 +19,6 @@ h1{
 .nav {
     list-style-type: none;
     margin: 0;
-    display:inline;
-    align-items: center;
     position: relative;
     color: black;
     font-family: Helvetica, sans-serif;
@@ -30,18 +28,27 @@ h1{
    
 }
   .nav ul {
+    position: flex;
+    width: 161px;
+    height: 16px;
+    left: 100px;
+    top: 23px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
     display: flex;
-    list-style: none;
     align-items: center;
-    border: solid;
-    border-color: black;
-    border-width: 100%;
+    text-align: center;
+
     
   }
   
   .nav a {
     text-decoration: none;
-    justify-content: space-evenly;
+  
     padding: 0px 50px 0px 50px;
     font-size: 20px;
     color: rgb(0, 0, 0);
@@ -54,7 +61,7 @@ h1{
   }
   a{
     text-decoration: none;
-    color: coral;
+    color: rgb(0, 0, 0);
   }
   .design-squiggle{
     width: 50%;
