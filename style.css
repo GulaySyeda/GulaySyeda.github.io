@@ -1,12 +1,16 @@
 #header{
     font-size: 100%;
+    width: 300%;
    
 }
 body{
     font-family:'Roboto';
-    background-image:url("./Untitled design.png");
+    padding: 0 0px 0 1px;
+    background-image:url(../florian-klauer-mk7D-4UCfmg-unsplash.jpg);
     background-size:100%;
     background-position: 1px -150px;
+    
+    
 }
 
 h1{
@@ -21,40 +25,41 @@ h1{
     margin: 0;
     padding: 0;
     display: flex;
-    align-items: center;
+    align-items: left;
     position: relative;
     height: 500%;
+    width: 800%;
     color: black;
     font-family:'Roboto';
     font-weight: bold;
+    
    
 }
   .nav ul {
-    list-style-type: none;
+    
     margin-right: 0;
-    padding-bottom: 0px;
-    display: flex;
+    padding-bottom: 10px;
+    display:flex;
     list-style: none;
-    align-items: center;
+    padding-right: -100%;
+    box-sizing: content-box;
+    
     
   }
   
   .nav a {
     text-decoration: none;
     align-items: center;
-    justify-content: space-evenly;
-    padding: 30px 30px 20px 10px;
+   
+    padding: 30px 30px 20px 80px;
     font-size: 30px;
     color: black;
     font-weight: lighter;
-  }
-  .prologue{
-    box-sizing: border-box;
-    position: absolute;
-    width: 1px;
-    height: 80px;
     
-    border-bottom: 3px solid #000000;
+
+    
   }
   
+ 
+
     
