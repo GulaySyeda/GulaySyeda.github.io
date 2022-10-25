@@ -1,14 +1,14 @@
 #header{
     font-size: 100%;
-    width: 300%;
    
 }
 body{
     font-family:'Roboto';
     padding: 0 0px 0 1px;
-    background-image:url("./Untitled design.png");
+    background-image:url(../florian-klauer-mk7D-4UCfmg-unsplash.jpg);
     background-size:100%;
-    background-position: 1px -150px;
+    background-position: 1px -100px;
+    background-repeat: no-repeat;
     
     
 }
@@ -59,7 +59,16 @@ h1{
 
     
   }
-  
  
 
-    
+  article {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 430px 0 20px 0px;
+  }
