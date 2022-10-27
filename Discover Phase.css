@@ -74,7 +74,7 @@ header{
   }
   .picture{
     width: 79.5%;
-    height: 79.5%;
+    height: 50%;
     border: solid;
     border-color: black;
     border-width: 2px;
