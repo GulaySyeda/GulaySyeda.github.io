@@ -73,18 +73,18 @@ header{
     line-height: 2px;
   }
   .picture{
-    width: 79.5%;
-    height: 79.5%;
+    width: 98.25%;
+    height: 45%;
    
   }
   .picture1{
-    width: 79.2%;
-    height: 79.2%;
+    width: 65%;
+    height: 225%;
     border: solid;
     border-color: black;
     border-width: 2px;
     align-items: left;
-    padding: 1.50% -6px 1.50% 25px;
+    padding: 0 200px 0 200px;
   }
   a{
     text-decoration: none;
@@ -100,7 +100,7 @@ header{
   }
   .introduction{
     text-align: left;
-    padding: 0 100px 0 10px;
+    padding: 0 200px 0 200px;
     text-align: justify;
     
   }
@@ -115,3 +115,10 @@ header{
     justify-content: center;
     padding: 40px 0 20px 0px;
   }  
+.presentation{
+    width: 50%;
+    height: 50%;
+    padding: 50px 100px 0 10px;
+    text-align: justify;
+    line-height: 100px;
+}
